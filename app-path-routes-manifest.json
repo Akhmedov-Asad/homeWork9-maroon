@@ -1,0 +1,10 @@
+{
+  "/page": "/",
+  "/cart/page": "/cart",
+  "/profile/page": "/profile",
+  "/products/page": "/products",
+  "/about/page": "/about",
+  "/contact/page": "/contact",
+  "/api/products/route": "/api/products",
+  "/products/[id]/page": "/products/[id]"
+}
